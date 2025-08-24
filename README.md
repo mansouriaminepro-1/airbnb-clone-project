@@ -68,6 +68,25 @@ By completing this project, you will:
 
 **Importance of User-Friendly Design**  
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.  
+**Color Styles**
+
+| Color Name | HEX Code | Usage |
+|------------|----------|-------|
+| Primary    | #FF5A5F  | Buttons, Links |
+| Secondary  | #00A699  | Icons, Highlights |
+| Background | #F7F7F7  | Page Background |
+| Text       | #484848  | Body Text |
+| Accent     | #FFB400  | Call-to-Action Elements |
+
+**Typography**
+
+| Element   | Font Family | Weight     | Size  |
+|-----------|-------------|-----------|-------|
+| Heading 1 | Inter       | Bold      | 32px  |
+| Heading 2 | Inter       | Semi-Bold | 24px  |
+| Body Text | Inter       | Regular   | 16px  |
+| Caption   | Inter       | Light     | 14px  |
+
 
 ---
 
